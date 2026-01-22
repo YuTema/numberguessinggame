@@ -1,4 +1,4 @@
-# Number Guessing Game (CLI)
+[# Number Guessing Game (CLI)
 
 Một trò chơi đoán số đơn giản chạy trên giao diện dòng lệnh (CLI), được xây dựng bằng ngôn ngữ C++.
 
@@ -25,3 +25,4 @@ Máy tính sẽ chọn ngẫu nhiên một con số trong khoảng từ 1 đến
 3. Biên dịch chương trình:
    ```bash
    g++ numberguessing.cpp -o numberguessing
+](https://roadmap.sh/projects/number-guessing-game)
